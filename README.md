@@ -1,2 +1,3 @@
 # Algorithm
-Algorithm practice
+Practice algorithms from time to time.  
+Run, Forest! Run!
